@@ -1,4 +1,4 @@
-# shareposts
+## shareposts
 Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts application on top of it
 
 #Local Installation
