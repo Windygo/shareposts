@@ -1,7 +1,7 @@
 ## shareposts
 Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts application on top of it
 
-**Local Installation
+**Local Installation**
 
 1. To run locally please download and move under <your drive>/xampp/htdocs/shareposts
 2. Create a db called shareposts (or any other name)
@@ -18,11 +18,11 @@ Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts appl
 6. Register your own users and create your own posts
 7. Try creating two users or more to see how they interact
 
-**Overview
+**Overview**
 This simple web app, sharedposts, runs on a from scratch super light mvc framework.
 Both the mvc and web app can be extended to run much bigger apps based on the existing foundation.
 
-**Functionality
+**Functionality**
 1. Users can register and login
 2. Logged in users can add / edit / delete their own posts
 3. Logged in users can view posts by all other users
