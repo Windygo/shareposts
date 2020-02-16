@@ -18,7 +18,7 @@ Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts appl
     define('DB_NAME', 'shareposts');
   
 4. Review other settings on config.php and change if needed  
-5. Import attached .sql into fresh db
+5. Import attached .sql into the fresh db you have created
 6. Register your own users and create your own posts
 7. Try creating two users or more to see how they interact
 
