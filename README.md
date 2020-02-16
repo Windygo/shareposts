@@ -8,6 +8,7 @@ Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts appl
 3. Update settings on /config/config.php to match you db name, user name etc.
 
     // DB Params
+    
     define('DB_HOST', 'localhost');
     
     define('DB_USER', '');
