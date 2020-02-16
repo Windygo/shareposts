@@ -7,12 +7,11 @@ Built from scratch (no frameworksl, pakcagese etc.) PHP MVC with CRUD posts appl
 2. Create a db called shareposts (or any other name)
 3. Update settings on /config/config.php to match you db name, user name etc.
 
->
-  // DB Params
-  define('DB_HOST', 'localhost');
-  define('DB_USER', '');
-  define('DB_PASS', '');
-  define('DB_NAME', 'shareposts');
+    // DB Params
+    define('DB_HOST', 'localhost');
+    define('DB_USER', '');
+    define('DB_PASS', '');
+    define('DB_NAME', 'shareposts');
   
 4. Review other settings on config.php and change if needed  
 5. Import attached .sql into fresh db
